@@ -1,0 +1,3 @@
+@import "tailwindcss";
+@import "./styles.css";
+:root { --background: #f7f8f2; --foreground: #1c2e27; --chart-1: #337f62; --chart-2: #f1a866; --chart-3: #9c8cc7; --chart-4: #6aa5bd; --chart-5: #dbb35f; --chart-line-primary:#397d65; --chart-line-secondary:#f1a866; --chart-grid:#e3eae3; --chart-label:#74857b; --chart-foreground:#59796b; --popover: #ffffff; --popover-foreground: #183529; }

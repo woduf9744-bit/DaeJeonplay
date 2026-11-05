@@ -1,0 +1,110 @@
+{
+  "lake": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Daecheong_Dam.jpg/960px-Daecheong_Dam.jpg",
+    "label": "대청댐 일대 실제 사진",
+    "credit": "Yoo Chung · CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Daecheong_Dam.jpg"
+  },
+  "lake2": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Daechengdam.jpg/960px-Daechengdam.jpg",
+    "label": "대청댐 일대 실제 사진",
+    "credit": "우희철 · CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Daechengdam.jpg"
+  },
+  "temi": {
+    "url": "https://tong.visitkorea.or.kr/cms/resource/65/3526665_image2_1.jpg",
+    "label": "테미공원 실제 사진",
+    "credit": "한국관광공사 관광사진",
+    "source": "https://www.welfarehello.com/community/hometownNews/431fe17e-43fa-403d-912d-f130bc9c5280"
+  },
+  "citypark": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Dunsan_prehistoric_settlement_site.jpg/960px-Dunsan_prehistoric_settlement_site.jpg",
+    "label": "대전 공원 참고 사진",
+    "credit": "Yoo Chung · CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Dunsan_prehistoric_settlement_site.jpg"
+  },
+  "hill": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Daejeon-01.jpg/960px-Daejeon-01.jpg",
+    "label": "대전 산 전망 참고 사진",
+    "credit": "Yoo Chung · CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Daejeon-01.jpg"
+  },
+  "mountain": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Daejeon_southern_cityscape_from_Gyejoksan.jpg/960px-Daejeon_southern_cityscape_from_Gyejoksan.jpg",
+    "label": "계족산에서 본 대전 참고 사진",
+    "credit": "Yoo Chung · CC BY-SA 2.5",
+    "source": "https://commons.wikimedia.org/wiki/File:Daejeon_southern_cityscape_from_Gyejoksan.jpg"
+  },
+  "forest": {
+    "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Seoulforest_path01.jpg/960px-Seoulforest_path01.jpg",
+    "label": "숲길 참고 사진",
+    "credit": "Enigma7seven · CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Seoulforest_path01.jpg"
+  },
+  "soup": {
+    "url": "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=960&q=82",
+    "label": "식당 참고 사진 · 해당 매장 외관 아님",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "noodle": {
+    "url": "https://images.unsplash.com/photo-1552566626-52f8b828add9?w=960&q=82",
+    "label": "식당 참고 사진 · 해당 매장 간판 아님",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "snack": {
+    "url": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=960&q=82",
+    "label": "분식점 외관 참고 사진 · 실제 매장 사진 아님",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "pastry": {
+    "url": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=960&q=82",
+    "label": "카페·디저트 가게 외관 참고 사진 · 실제 매장 사진 아님",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "oldtown": {
+    "url": "https://images.unsplash.com/photo-1529429617124-aee711a5ac1c?w=960&q=82",
+    "label": "소제동·원도심 골목 외관 참고 사진 · 실제 장소와 다를 수 있음",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "culture": {
+    "url": "https://images.unsplash.com/photo-1518998053901-5348d3961a04?w=960&q=82",
+    "label": "전시관 외관 참고 사진 · 실제 장소와 다를 수 있음",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "craft": {
+    "url": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=960&q=82",
+    "label": "체험 공간 외관 참고 사진 · 실제 장소와 다를 수 있음",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "craft2": {
+    "url": "https://images.unsplash.com/photo-1497366754035-f200968a6e72?w=960&q=82",
+    "label": "문화체험 시설 외관 참고 사진 · 실제 장소와 다를 수 있음",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "science": {
+    "url": "https://images.unsplash.com/photo-1497366412874-3415097a27e7?w=960&q=82",
+    "label": "과학관·연구시설 외관 참고 사진 · 실제 장소와 다를 수 있음",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "stars": {
+    "url": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=960&q=82",
+    "label": "천문대 외관 참고 사진 · 실제 장소와 다를 수 있음",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  },
+  "museum": {
+    "url": "https://images.unsplash.com/photo-1566127992631-137a642a90f4?w=960&q=82",
+    "label": "박물관 건물 참고 사진 · 지질박물관 실제 외관 아님",
+    "credit": "Unsplash 참고 이미지",
+    "source": "https://unsplash.com/"
+  }
+}
